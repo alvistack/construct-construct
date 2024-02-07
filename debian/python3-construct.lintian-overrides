@@ -1,0 +1,4 @@
+python3-construct: copyright-without-copyright-notice
+python3-construct: initial-upload-closes-no-bugs
+python3-construct: no-manual-page
+python3-construct: zero-byte-file-in-doc-directory

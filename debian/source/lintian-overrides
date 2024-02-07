@@ -1,0 +1,5 @@
+python-construct source: file-without-copyright-information
+python-construct source: no-debian-changes
+python-construct source: source-contains-prebuilt-windows-binary
+python-construct source: source-is-missing
+python-construct source: source-package-encodes-python-version
